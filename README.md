@@ -6,7 +6,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection a
 ---
 
 ## **b. Dataset Description** 
-The dataset used is the **UCI Heart Disease dataset**, which contains patient health records with attributes such as:
+The dataset used is the **UCI Heart Disease dataset (heart.csv)**, which contains patient health records with attributes such as:
 
 - **Age**: Patient’s age in years  
 - **Sex**: Male (1) or Female (0)  
