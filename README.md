@@ -64,3 +64,24 @@ Six machine learning models were trained and evaluated:
 
 ---
 
+
+## **heart-disease-prediction-folder directory**
+
+```text
+heart-disease-prediction-folder/
+│
+│-- model/ (saved model files for all implemented models)
+│   ├── Decision_Tree.pkl
+│   ├── KNN.pkl
+│   ├── Logistic_Regression.pkl
+│   ├── Naive_Bayes.pkl
+│   ├── Random_Forest.pkl
+│   └── XGBoost.pkl
+│
+│-- README.md
+│-- app.py (or streamlit_app.py)
+│-- requirements.txt
+│-- heart.csv
+│-- heart_disease.ipynb (entire data processing and model building)
+│-- test.csv (sample test file to upload in the streamlit app)
+
