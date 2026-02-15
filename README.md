@@ -65,6 +65,12 @@ Six machine learning models were trained and evaluated:
 ---
 
 
+## NOTE: Test Dataset
+
+Please note that the `test.csv` file is included in this repository.  
+You can download it directly and upload it into the Streamlit application for evaluation purposes.
+
+
 ## **heart-disease-prediction-folder directory**
 
 ```text
